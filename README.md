@@ -129,3 +129,6 @@ Configuration-driven for easy scalability and future department additions.
 Frontend: React.js app deployed on AWS EC2 via Nginx
 Backend: Node.js + Socket.io server managed by PM2
 Database: MongoDB with indexed collections and aggregation pipelines
+
+📸 Dashboard Preview
+<p align="center"> <span style="display:inline-block; text-align:center; width:60%;"> <strong>⚔️ Samurai Dashboard</strong><br/> <img src="https://github.com/Bgtbala/Samurai/blob/main/samuraiScreenshots/dashboard.png?raw=true" alt="Samurai Dashboard" width="100%"/> </span> </p>
